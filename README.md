@@ -1,2 +1,2 @@
 # ClassCentral
-Trying to translate this public site to a Hindi Language with a Python script
+Trying to translate this public site to Hindi Language with a Python script
