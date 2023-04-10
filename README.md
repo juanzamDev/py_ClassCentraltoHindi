@@ -1,2 +1,2 @@
 # ClassCentral.com
-Public site translate to Hindi with a Python script.
+Public site translated to Hindi with a Python script.
