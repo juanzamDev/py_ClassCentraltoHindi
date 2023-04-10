@@ -1,2 +1,2 @@
-# ClassCentral
-Trying to translate this public site to Hindi with a Python script.
+# ClassCentral.com
+Public site translate to Hindi with a Python script.
